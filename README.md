@@ -1,3 +1,11 @@
+⚠ Notice
+
+This project is proprietary. No use, reproduction, modification, or distribution of this software or its source code is allowed without explicit written permission from the author, Methma Lochanie Rathnayaka.
+
+If you wish to reference this work or request usage permissions, please contact the author directly.
+
+Unauthorized use will be considered a violation of copyright and may lead to legal action.
+
 # Bathroom Stall Management System
 
 This Java project simulates a concurrent bathroom stall management system where multiple users (employees and students) compete for access to a limited number of bathroom stalls. The system demonstrates the implementation of concurrent programming concepts using Java's concurrency utilities.
@@ -106,3 +114,7 @@ Created as part of a concurrent programming coursework.
 - **Author:** M.L.Rathnayaka
 - **Institution:** Informatics Institute of Technology (IIT) affiliated by University of Westminster (UoW)
 - **Scenario:** 3 (Bathroom Stall Management System)
+
+## Project Demo Video
+
+https://www.youtube.com/watch?v=RCJ0INdNCAQ
